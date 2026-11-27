@@ -89,7 +89,7 @@ Após descobrir a credencial (`alvo:senha123` ou credencial SMB), o pentester va
 * **Validação via SSH:**
   ```bash
   ssh alvo@127.0.0.1
-  # Inserir a senha identificada pelo Medusa
+ senha 123
   ```
 
 * **Validação via SMB (smbclient):**
