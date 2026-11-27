@@ -76,7 +76,7 @@ ACCOUNT FOUND: [ssh] Host: 127.0.0.1 User: alvo Password: senha123 [SUCCESS]
 ```
 
 ### 📸 Registro Visual da Execução:
-> *(Insira aqui a imagem da tela do seu terminal capturada durante o exercício)*
+
 
 ![Execução do Medusa](evidencia-medusa.png)
 
